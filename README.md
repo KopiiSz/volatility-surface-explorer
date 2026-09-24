@@ -2,7 +2,7 @@
 
 **What does the implied-volatility surface look like when returns aren't normal?**
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-NAME.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://volatility-surface-explorer-puzgnmmnxcdaam6sq33tmt.streamlit.app)
 
 ![Heston tab](screenshot.png)
 
